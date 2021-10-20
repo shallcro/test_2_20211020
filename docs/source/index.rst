@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   adding another one
+   and another one
